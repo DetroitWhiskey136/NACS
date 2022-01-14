@@ -26,6 +26,10 @@ body {
   text-decoration: none;
 }
 
+.right {
+  float: right !important;
+}
+
 #navbar a:hover {
 
   background-color: #ddd;
