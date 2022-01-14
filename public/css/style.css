@@ -53,7 +53,7 @@ body {
 }
 
 .sticky + .content {
-  padding-top: 75px;
+  padding-top: 65px;
 }
 
 .clean_border {
