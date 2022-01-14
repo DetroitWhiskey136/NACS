@@ -26,8 +26,8 @@ body {
   text-decoration: none;
 }
 
-.right {
-  float: right !important;
+#navbar .right {
+  float: right;
 }
 
 #navbar a:hover {
